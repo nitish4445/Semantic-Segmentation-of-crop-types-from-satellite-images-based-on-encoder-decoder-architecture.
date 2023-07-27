@@ -1,0 +1,1 @@
+# Semantic-Segmentation-of-crop-types-from-satellite-images-based-on-encoder-decoder-architecture.
